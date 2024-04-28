@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdelrahman-Alkhodary
-- 👀 I’m interested in NLP and RL
+- 👀 I’m interested in NLP and Recommendation Systems
 - 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on abdelrahman.helmy2010@gmail.com or abdelrahman.alkhoda@bahcesehir.edu.tr
 
 <!---
