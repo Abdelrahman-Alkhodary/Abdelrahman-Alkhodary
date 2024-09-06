@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abdelrahman-Alkhodary
 - 👀 I’m interested in NLP and Recommendation Systems
-- 🌱 I’m currently learning MLOps
 - 📫 you can reach me on abdelrahman.helmy2010@gmail.com or a.alkhodary@algorithmx.cloud
 
 <!---
